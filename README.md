@@ -9,13 +9,6 @@ Features
 
   * Install atom (bash)
 
-Contributing
-------------
-
-Contributions are always welcome.
-
-See [Contributing](CONTRIBUTING.md).
-
 Developer
 ---------
 
