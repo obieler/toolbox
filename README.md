@@ -9,6 +9,11 @@ Features
 
   * Install atom (bash)
 
+Contributing
+------------
+
+Contributions are welcome.
+
 Developer
 ---------
 
