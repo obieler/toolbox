@@ -6,13 +6,13 @@
 
 echo -e '>> DOWNLOADING ATOM...\n'
 
-wget -O ~/tmp/atom.deb wget https://atom.io/download/deb
+wget -O /tmp/atom.deb wget https://atom.io/download/deb
 
 echo -e '\n>> INSTALLING ATOM...\n'
 
-sudo dpkg -i ~/tmp/atom.deb
+sudo dpkg -i /tmp/atom.deb
 
-rm ~/tmp/atom.deb
+rm /tmp/atom.deb
 
 echo -e '\n>> ATOM INSTALLED.'
 echo -e '\nInstalled version:\n--------------------'
