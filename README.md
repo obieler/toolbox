@@ -12,13 +12,13 @@ Toolbox - To facilitate operations.
 Run
 ---
 
-Install Atom:
+Install Atom:  
 `./scripts/install-atom.sh`
 
-Archive website:
+Archive website:  
 `./scripts/archive-website.sh <WEBSITE>`
 
-Archive url:
+Archive url:  
 `./scripts/archive-url.sh <URL>`
 
 Contributing
