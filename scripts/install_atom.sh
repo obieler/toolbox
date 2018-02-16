@@ -4,6 +4,13 @@
 # See the LICENSE file for more details.
 #
 
+# Check if wget is installed
+which wget > /dev/null
+if [ 0 -ne $? ]; then
+  echo -e 'wget not found. use: sudo apt-get install wget'
+  exit 1
+fi
+
 echo -e '>> DOWNLOADING ATOM...\n'
 
 wget -O /tmp/atom.deb wget https://atom.io/download/deb
