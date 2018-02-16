@@ -1,13 +1,24 @@
+<p align="center">
+  <img alt="Toolbox" src="https://raw.githubusercontent.com/epfl-devrun/toolbox/master/docs/readme/readme-logo.png">
+</p>
+---
 
 Overview
 --------
 
 Toolbox - To facilitate operations.
 
-Features
---------
+Run
+---
 
-  * Install atom (bash)
+Install Atom:
+`./scripts/install-atom.sh`
+
+Archive website:
+`./scripts/archive-website.sh <WEBSITE>`
+
+Archive url:
+`./scripts/archive-url.sh <URL>`
 
 Contributing
 ------------
@@ -18,12 +29,13 @@ Developer
 ---------
 
   * [Olivier Bieler](https://github.com/obieler)
+  * [William Belle](https://github.com/williambelle)
 
 License
 -------
 
 Apache License 2.0
 
-(c) ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE, Switzerland, VPSI, 2017.
+(c) ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE, Switzerland, VPSI, 2017-2018.
 
 See the [LICENSE](LICENSE) file for more details.
