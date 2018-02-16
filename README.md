@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Toolbox" src="https://raw.githubusercontent.com/epfl-devrun/toolbox/master/docs/readme/readme-logo.png">
+</p>
+---
 
 Overview
 --------
