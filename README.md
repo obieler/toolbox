@@ -2,12 +2,20 @@
   <img alt="Toolbox" src="https://raw.githubusercontent.com/epfl-devrun/toolbox/master/docs/readme/readme-logo.png">
 </p>
 
+<p align="center">
+  Toolbox - To facilitate operations.
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/epfl-devrun/toolbox/master/LICENSE">
+    <img alt="Apache License 2.0" src="https://img.shields.io/badge/license-Apache%202.0-blue.svg">
+  </a>
+  <a href='https://github.com/epfl-devrun/toolbox/tags'>
+    <img alt="GitHub Tag" src="https://img.shields.io/github/tag/epfl-devrun/toolbox.svg" />
+  </a>
+</p>
+
 ---
-
-Overview
---------
-
-Toolbox - To facilitate operations.
 
 Run
 ---
@@ -26,8 +34,8 @@ Contributing
 
 Contributions are welcome.
 
-Developer
----------
+Developers
+----------
 
   * [Olivier Bieler](https://github.com/obieler)
   * [William Belle](https://github.com/williambelle)
