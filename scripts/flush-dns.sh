@@ -12,7 +12,5 @@ sudo /etc/init.d/networking force-reload
 if [ -n "$(command -v nscd)" ]; then
     sudo /etc/init.d/nscd restart
 fi
-# If you wanted to refresh your settings you could disable and then run
-sudo service network-manager restart
 
 echo "DNS Flushed!";
