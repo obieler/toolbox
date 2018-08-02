@@ -29,8 +29,9 @@ Archive website:
 Archive url:  
 `./scripts/archive-url.sh <URL>`
 
-Flush DNS (Ubuntu):
-`./script/flush-dns.sh`
+Flush DNS (Ubuntu):  
+`./scripts/flush-dns.sh`
+
 
 Contributing
 ------------
