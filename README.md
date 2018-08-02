@@ -32,6 +32,8 @@ Archive url:
 Flush DNS (Ubuntu):  
 `./scripts/flush-dns.sh`
 
+Website IPv6, Diode and SSL certificate validation:  
+`./scripts/epfl-net-test.sh -h <HOST>`
 
 Contributing
 ------------
