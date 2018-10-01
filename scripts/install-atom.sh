@@ -13,7 +13,7 @@ fi
 
 echo -e '>> DOWNLOADING ATOM...\n'
 
-wget -O /tmp/atom.deb wget https://atom.io/download/deb
+wget -O /tmp/atom.deb https://atom.io/download/deb
 
 echo -e '\n>> INSTALLING ATOM...\n'
 
