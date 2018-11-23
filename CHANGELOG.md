@@ -1,5 +1,8 @@
 Changelog
 =========
+### v0.2.0 / 2018-11-23
+
+  - add script to validate website IPv6, Diode and SSL certificate
 
 ### v0.1.0 / 2018-02-16
 
