@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #
-# (c) ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE, Switzerland, VPSI, 2017-2018.
+# Original work (c) ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE, Switzerland, VPSI, 2017-2018.
+# Modified work (c) Olivier Bieler, 2018.
 # See the LICENSE file for more details.
 #
 
