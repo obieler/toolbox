@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Toolbox" src="https://raw.githubusercontent.com/epfl-devrun/toolbox/master/docs/readme/readme-logo.png">
+  <img alt="Toolbox" src="https://raw.githubusercontent.com/obieler/toolbox/master/docs/readme/readme-logo.png">
 </p>
 
 <p align="center">
@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/epfl-devrun/toolbox/master/LICENSE">
+  <a href="https://raw.githubusercontent.com/obieler/toolbox/master/LICENSE">
     <img alt="Apache License 2.0" src="https://img.shields.io/badge/license-Apache%202.0-blue.svg">
   </a>
-  <a href='https://github.com/epfl-devrun/toolbox/tags'>
-    <img alt="GitHub Tag" src="https://img.shields.io/github/tag/epfl-devrun/toolbox.svg" />
+  <a href='https://github.com/obieler/toolbox/tags'>
+    <img alt="GitHub Tag" src="https://img.shields.io/github/tag/obieler/toolbox.svg" />
   </a>
 </p>
 
