@@ -29,7 +29,7 @@ Archive website:
 Archive url:  
 `./scripts/archive-url.sh <URL>`
 
-Flush DNS (Ubuntu):  
+Flush DNS (Ubuntu 18.04):  
 `./scripts/flush-dns.sh`
 
 Website IPv6, Diode and SSL certificate validation:  
