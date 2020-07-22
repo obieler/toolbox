@@ -1,5 +1,9 @@
 Changelog
 =========
+### v0.3.0 / 2020-07-22
+
+  - Update script flush-dns script for Ubuntu 18.04
+
 ### v0.2.0 / 2018-11-23
 
   - add script to validate website IPv6, Diode and SSL certificate
